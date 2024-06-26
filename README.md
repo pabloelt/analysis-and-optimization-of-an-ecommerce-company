@@ -47,6 +47,14 @@ The main results obtained from this Discovery Project are summarized below:
 
 ### Actionable initiatives
 
+A plan of 10 specific initiatives, organized into five major business levers, has been derived from the exploratory data analysis to break the stagnant trend in the company over the last few months and achieve an overall increase in ecommerce revenues:
+
+#### Actions to increase the number of views:
+
+1. Review paid campaigns (generation and retargeting) to focus investment during the time slots between 9 AM and 1 PM, and between 6 PM and 8 PM.
+2. Concentrate investment for the Christmas and post-Christmas period during the Black Friday week.
+3. Increase investment to reach the maximum CPA based on the identified LTV.
+
 **2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
 * The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
 
