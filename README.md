@@ -30,7 +30,8 @@ These tools will help us implement effective CRO actions and drive substantial r
 
 The main results obtained from this Discovery Project are summarized below:
 
-**1. After analyzing the data, the baseline of the company has been found**
+### After analyzing the data, the baseline of the company has been found
+
 * In each session, on average:
   * 2.2 products are viewed.
   * 1.3 products are added to the cart.
@@ -43,6 +44,8 @@ The main results obtained from this Discovery Project are summarized below:
   * 22% from cart additions to purchases.
   * 13% from views to purchases.
 * Average monthly revenue: 125.000€
+
+### Actionable initiatives
 
 **2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
 * The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
