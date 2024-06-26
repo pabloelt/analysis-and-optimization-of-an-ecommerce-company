@@ -19,9 +19,12 @@ The client for this project is a cosmetics ecommerce company based in Russia. Th
 
 ## Objectives
 
-The main objective is to identify the property profiles with the highest potential in the vacation rental market. This can guide the valuation team on where to start looking for such opportunities and highlight the key neighborhoods and geographical areas, which are most promising to focus on.
+The main objective is to analyze the transactional data to identify potential CRO actions that can increase visits, conversions, and average ticket size, thereby boosting the overall revenue of the ecommerce company. To achieve this goal, we will create advanced analytical assets such as:
 
-This analysis is primarily conducted in terms of rental prices, occupancy levels, and purchase prices. 
+* **RFM Segmentation:** Analyzing customer data based on Recency, Frequency, and Monetary value to identify key customer segments and tailor marketing strategies accordingly.
+* **Recommendation System:** Developing a recommendation system to personalize the shopping experience, encouraging higher conversions and increasing the average ticket size.
+
+These tools will help us implement effective CRO actions and drive substantial revenue growth.
 
 ## Project results
 
