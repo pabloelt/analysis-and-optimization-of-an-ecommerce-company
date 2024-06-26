@@ -13,11 +13,9 @@
  
 ## Introduction
 
-The client for this project is a real estate company that invests in large cities by purchasing properties to rent out as vacation apartments. The managers have decided to invest in Madrid and are interested in analyzing publicly available data from the sector leader, Airbnb, to identify the types of properties with the greatest commercial potential for vacation rentals.
+The client for this project is a cosmetics ecommerce company based in Russia. They have experienced flat growth over the past few months and have hired us to analyze their transactional data and implement Conversion Rate Optimization (CRO) actions to reverse this situation.
 
-As the main deliverable, the management expects to receive a detailed typology of properties that the valuation team should target among the existing opportunities in the city, as well as the primary neighborhoods or geographic areas to focus on.
-
- * [See a more detailed explanation here](https://pabloelt.github.io/project/project3/)
+ * [See a technical explanation of the project here](https://pabloelt.github.io/project/project3/)
 
 ## Objectives
 
