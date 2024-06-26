@@ -30,13 +30,19 @@ These tools will help us implement effective CRO actions and drive substantial r
 
 The main results obtained from this Discovery Project are summarized below:
 
-**1. Ten neighborhoods with a high investment potential have been identified**
-* They can be segmented into 4 groups depending on the type, quality, and property location.
-* These 4 groups, which have been identified, are the following:
-  * *Low cost Investment*: Simancas, Ambroz, Marroquina, San Juan Bautista.
-  * *Medium cost investment*: El Plantio, Valdemarín, Valdefuentes.
-  * *Medium-high cost investment*: Jerónimos, Fuentela reina.
-  * *High cost investment*: Recoletos.
+**1. After analyzing the data, the baseline of the company has been found**
+* In each session, on average:
+  * 2.2 products are viewed.
+  * 1.3 products are added to the cart.
+  * 0.9 products are removed from the cart.
+  * 0.3 products are purchased.
+* Cross-selling: median of 5 products per purchase.
+* Recurrence: 10% of customers repeat purchases after the first month.
+* Conversion rates:
+  * 60% from views to cart additions.
+  * 22% from cart additions to purchases.
+  * 13% from views to purchases.
+* Average monthly revenue: 125.000€
 
 **2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
 * The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
