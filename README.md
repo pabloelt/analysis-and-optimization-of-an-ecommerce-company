@@ -58,7 +58,7 @@ The main results obtained from this Discovery Project are summarized below:
   * <mark>01_Diseño del proyecto.ipynb</mark>: Notebook compiling the initial design of the project.
   * <mark>02_Creacion del Datamart Analitico.ipynb</mark>: Notebook creating analytic data mart (loading and unifying data, applying data quality processes, and so on).
   * <mark>03_Analisis e Insights.ipynb</mark>: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
-* 📈 Business_Case.xlsx: Business Case excel file.
+* 📈 <mark>Business_Case.xlsx</mark>: Business Case excel file.
 
 ## Instructions
 
