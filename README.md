@@ -51,21 +51,28 @@ A plan of 10 specific initiatives, organized into five major business levers, ha
 
 #### Actions to increase the number of views:
 
-1. Review paid campaigns (generation and retargeting) to focus investment during the time slots between 9 AM and 1 PM, and between 6 PM and 8 PM.
+1. Review paid campaigns (generation and retargeting) to focus investment during the time slots between 9 am and 1 pm, and between 6 pm and 8 pm.
 2. Concentrate investment for the Christmas and post-Christmas period during the Black Friday week.
 3. Increase investment to reach the maximum CPA based on the identified LTV.
 
-**2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
-* The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
+#### Actions to increase conversion rates:
 
-**3. It is recommended to search for properties in one of the identified neighborhoods that are not necessarily close to points of interest**
-* These properties are expected to have a lower purchase price.
-* It seems that proximity to points of interest does not have a particular impact on rental prices.
-  
-**4. A new business model based on rentals for specific moments of high sporting interest should be explored**
-* It is advisable to look for opportunities in the San Blas neighborhood.
-* These properties present a particularly high cost-income ratio per night.
-* There are still many rentals that are not exploiting this potential.
+4. Preconfigure the homepage with the products identified in the "most viewed" and "most sold" analyses.
+5. Work on products with a high cart abandonment rate.
+6. Work on products that are frequently viewed but infrequently purchased.
+
+#### Actions to increase cross-selling:
+
+ 7. The median purchase is 5 products at the moment. To increase this ratio, implement real-time recommendations using the new recommendation system.
+
+#### Actions to increase purchase frequency:
+
+8. The 90% of the customers only make a single purchase. Create a periodic newsletter using the new recommendation system to increase visit frequency.
+9. Run promotional campaigns targeting the top segments identified in the RFM segmentation.
+
+#### Actions to improve customer loyalty:
+
+10. Create a loyalty program based on the new RFM segmentation.
 
 ## Project structure
 
